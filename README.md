@@ -98,23 +98,6 @@ Este projeto está sob a licença MIT.
   👨‍💻 Desenvolvido por <a href="https://github.com/DanielSilva-dss">Daniel Silva</a> para o desafio DIO.  
 </p>  
 
---- 
-
-### ✨ Dica para Entrevistas  
-**Destaque:**  
-- Como a estrutura do projeto segue boas práticas de POO.  
-- Como você evoluiria o projeto (testes, banco de dados, etc.).  
-
---- 
+---
 
 🔗 **Link do Repositório**: [github.com/DanielSilva-dss/desafio-dio-POO](https://github.com/DanielSilva-dss/desafio-dio-POO)  
-
---- 
-
-Esse README está formatado para GitHub e inclui:  
-- **Visão geral** do projeto.  
-- **Instruções claras** para execução.  
-- **Destaque dos conceitos técnicos** (útil para entrevistas).  
-- **Sugestões de evolução** (mostra proatividade).  
-
-Se quiser, adicione um diagrama de classes (usando Mermaid ou imagem) para ilustrar melhor a estrutura! 🎨
